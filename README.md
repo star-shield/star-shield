@@ -10,13 +10,17 @@
 
 #
 
+<img align="right" alt="" height="190px" width="390px" src="./src/ken and ryu.gif">
+
+<h3 align="left">Contate-me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:felipebrandao462@gmail.com)
+
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="35" alt="html5 logo"  />
 </div>
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
 
 #
 <picture>
